@@ -1,2 +1,5 @@
 .DS_Store
+GemFile.lock
+vendor/*
+bundle_bin/*
 
