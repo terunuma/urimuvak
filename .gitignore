@@ -1,5 +1,6 @@
 .DS_Store
 GemFile.lock
+data/*
 vendor/*
 bundle_bin/*
 
